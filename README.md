@@ -1,4 +1,6 @@
-# Jasmine Junit Runner
+# Jasmine Junit Runner 
+
+Latest build: [![Circle CI](https://circleci.com/gh/stbutler11/jasmine-junit-runner/tree/master.svg?style=svg)](https://circleci.com/gh/stbutler11/jasmine-junit-runner/tree/master)
 
 ## What's this? 
 
